@@ -3,7 +3,7 @@ import time
 import random
 import requests
 
-BACKEND_URL = ''
+BACKEND_URL = 'http://0.0.0.0:8000'
 
 # Set page configuration
 st.set_page_config(
