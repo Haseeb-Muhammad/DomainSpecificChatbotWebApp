@@ -1,4 +1,4 @@
-import DomainSpecificChatbotWebApp.frontend.streamlit as st
+import streamlit as st
 import time
 import random
 import requests
